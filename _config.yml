@@ -12,7 +12,7 @@ title                    : "MI QIRUI (米祈睿)"
 title_separator          : "-"
 name                     : &name "Qirui Mi"
 description              : &description "personal description"
-url                      : https://miqirui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://miqirui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Miracle1207/miqirui.github.io"
 
